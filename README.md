@@ -20,4 +20,6 @@
 
 10. git branch -d rama-heroes ```Sirve para eliminar una rama respectiva```
 
+11. git push ```Despliega la aplicacíón```
 
+12.  git commit -am 
