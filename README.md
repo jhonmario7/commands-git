@@ -18,6 +18,6 @@
 
 9. git checkout master 
 
-10. - git branch -d rama-heroes ```Sirve para eliminar una rama respectiva```
+10. git branch -d rama-heroes ```Sirve para eliminar una rama respectiva```
 
 
