@@ -1,16 +1,23 @@
 # Comandos útiles de Git
 
-1- git init
-2- git add .
+1. git init
 
-3- git resset . ```es como un ctrl+z que devuelve a lo que hace un git add)```
+2. git add .
 
-4- git commit  
+3. git resset . ```es como un ctrl+z que devuelve a lo que hace un git add)```
 
-5- git checkout  -- . ```Me permite devolverme al ultimo commmit existente de la rama.```
+4. git commit  
 
-6- git log ```Me permite verificar los commits que he hecho en esa rama.```
+5. git checkout  -- . ```Me permite devolverme al ultimo commmit existente de la rama.```
 
-7- git commit --amend ```Esto me va arreglar el ultimo commit que tengo, tenemos que undirle la tecla I, y para salir esc, luego : wq!```
+6. git log ```Me permite verificar los commits que he hecho en esa rama.```
 
-8- git checkout -b rama-heores ````Esto me va permitir crear una nueva rama```
+7. git commit --amend ```Esto me va arreglar el ultimo commit que tengo, tenemos que undirle la tecla I, y para salir esc, luego : wq!```
+
+8. git checkout -b rama-heores ```Esto me va permitir crear una nueva rama```
+
+9. git checkout master 
+
+10. - git branch -d rama-heroes ```Sirve para eliminar una rama respectiva```
+
+
